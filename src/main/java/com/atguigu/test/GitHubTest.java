@@ -12,5 +12,6 @@ package com.atguigu.test;
 public class GitHubTest {
     public static void main(String[] args) {
         System.out.println("push github test");
+        System.out.println("push github test01");
     }
 }
